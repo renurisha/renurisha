@@ -12,7 +12,7 @@
 - 📫 How to reach me **renuk1485@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mppEPsfbQRJrE_Fc3f_1uMwnbf1s3Mlf/view?usp=sharing](https://drive.google.com/file/d/1mppEPsfbQRJrE_Fc3f_1uMwnbf1s3Mlf/view?usp=sharing)
-- <p><a href="https://renuportfolionew.000webhostap">Portfolio</a></p>
+- <p><a href="https://fw12-234renukumariportfolio.netlify.app/">Portfolio</a></p>
  <p>  <a href="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></a></p>
 
 <h3 align="left">Connect with me:</h3>
