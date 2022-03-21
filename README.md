@@ -12,12 +12,12 @@
 - 📫 How to reach me **renuk1485@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mppEPsfbQRJrE_Fc3f_1uMwnbf1s3Mlf/view?usp=sharing](https://drive.google.com/file/d/1mppEPsfbQRJrE_Fc3f_1uMwnbf1s3Mlf/view?usp=sharing)
-- <p><a href="https://fw12-234renukumariportfolio.netlify.app/" target="blank">Portfolio</a></p>
+- <p><a href="https://fw12-234renukumariportfolio.netlify.app/" target="_blank">Portfolio</a></p>
  <p>  <a href="https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/renu-kumari-9b8528210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renu-kumari-9b8528210/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/renu-kumari-9b8528210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renu-kumari-9b8528210/" height="30" width="40" /></a>
 <a href="https://instagram.com/renuprajapati1485" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renuprajapati1485" height="30" width="40" /></a>
 </p>
 
