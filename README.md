@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm renu kumari</h1>
 <h3 align="center">Learning MERN stack</h3>
+<h3> I am curious aboutTechnology because when i was in school that time decided to enter into this field And i am always ready to take challenges in this journey and I will try to give my best. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renurisha&label=Profile%20views&color=0e75b6&style=flat" alt="renurisha" /> </p>
 
